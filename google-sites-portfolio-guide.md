@@ -1,6 +1,6 @@
 # 🚀 Creating a Personalized Google Website Portfolio
  
-[Watch Video Tutorial](YOUR_VIDEO_LINK_HERE)
+[Watch Video Tutorial]([YOUR_VIDEO_LINK_HERE](https://www.youtube.com/watch?v=yLM_NPaqxUI))
 
 *A step-by-step guide to building your professional portfolio for FREE using Google Sites*
 
@@ -38,5 +38,5 @@ This tutorial was created as part of my Research Methodology studies, demonstrat
 
 ### Evidence of Completion
 
-- **Video Link:** [YOUR_VIDEO_LINK_HERE]
-- **Screenshot:** ![Screenshot of Video Uploaded](screenshot.jpg)
+- **Video Link:** [[YOUR_VIDEO_LINK_HERE](https://www.youtube.com/watch?v=yLM_NPaqxUI)]
+
